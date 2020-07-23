@@ -1,0 +1,16 @@
+{
+  "name": "l2lsdk_node",
+  "version": "1.0.0",
+  "description": "This is an example program for how to use the L2L Dispatch API to read and write data in the Dispatch system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leading2Lean",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "querystring": "^0.2.0",
+    "yargs": "^15.3.1"
+  }
+}
